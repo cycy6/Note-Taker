@@ -9,7 +9,7 @@
   ## Project Description
   Note Taker
   ## Installation
-  Installed
+  Node.js | Express.js | Restful API | HTML 5 | CSS | Javascript | Heroku |
   ## Usage
   usage
   ## Testing
@@ -18,6 +18,5 @@
   MIT
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Contact
-  GitHub Profile: gitprofile  
-  GitHub Username: undefined  
-  Email: undefined
+  GitHub Profile: https://github.com/cycy6
+  GitHub Username: cycy6
