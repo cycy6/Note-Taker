@@ -14,6 +14,8 @@
   When a user types a heading and a message, the save button appears for the user to save notes
   ## Testing
   You can watch an exmaple here: (https://youtu.be/SWRwijPI9hs)
+
+  You can view project on Heroku: (https://project-notetaker.herokuapp.com/)
   ## Project License
   MIT
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
